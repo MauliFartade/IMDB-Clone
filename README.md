@@ -9,8 +9,8 @@ JavaScript
 OMDB API
 
 # Functionality :
-Search movies with suggestions
-click on Movie card for more info
-Add a movie to the favourites list
-Delete movie from the favourites list
+Search movies with suggestions.
+click on Movie card for more info.
+Add a movie to the favourites list.
+Delete movie from the favourites list.
 Data
